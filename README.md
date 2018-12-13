@@ -1,2 +1,3 @@
 # RGB-LED-Graduation-Cap
 Designed an RGB LED graduation hat that glows different colors based on the intensity of head movements. 
+The goal was to get a specific side to glow that color based on the head tilt position but I could not figure out the code for that so I simply accepted the second best which is make the whole hat glow based on the "intensity". Everything is on a raspberry pi which is hooked up to a 4xAA battery pack via the GPIO pins. First project where I combined LED lights to a sensor so this was insightful. Future projects will be expanded from this one for sure for home improvement ideas. 
